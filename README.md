@@ -9,7 +9,7 @@ My name is Angela Fu
 - 📫 How to reach me: af19000@tamu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love elephants
-- 
+ 
 <!--
 **af19000/af19000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
